@@ -67,11 +67,6 @@ using the following settings:
 
 ## Code Style
 
-Please (do your best to) stick to [Google's C++ style guide](https://google.github.io/styleguide/cppguide.html).
+[Google's C++ style guide](https://google.github.io/styleguide/cppguide.html)
 
-## Generating Additional Data
-
-If you'd like to generate your own radar and lidar data, see the
-[utilities repo](https://github.com/udacity/CarND-Mercedes-SF-Utilities) for
-Matlab scripts that can generate additional data.
 
